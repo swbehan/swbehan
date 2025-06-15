@@ -2,12 +2,15 @@
   <h1>Welcome, I'm Sean Behan</h1>
 </div>
 
-I'm a second year Computer Science student at Northeastern University with a concentration in **Artificial Intelligence** and a minor in **Business Administration**. I'm passionate about building data-driven applications and exploring the intersection of technology and business strategy.
+I'm a second year Computer Science student at Northeastern University with a concentration in **Artificial Intelligence** and a minor in **Business Administration**.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/sean-behan-/) or reach out at **behan.s@northeastern.edu**
 
-## 💡Current Projects
+## 💡Completed Projects
 - **EuroTour**: Full-stack web application with ML-powered travel recommendations and tourism forecasting
+
+## 🚧 In Progress Projects
+- Full-Stack triathlon training platform with specialized workout algorithms and progress analytics for Running, Swimming, Biking, and General Fitness
 
 ## 💻 Technologies I Know
 
