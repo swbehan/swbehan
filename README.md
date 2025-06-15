@@ -37,7 +37,3 @@ Find me on [LinkedIn](https://www.linkedin.com/in/sean-behan-/) or reach out at 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-## 📊 Focus Areas
-- **Machine Learning & AI**: Recommendation systems, time series forecasting, data analytics
-- **Full-Stack Development**: Building scalable web applications with modern frameworks
-- **Data Science**: Statistical analysis, predictive modeling, and data visualization
