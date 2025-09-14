@@ -8,6 +8,9 @@ Find me on [LinkedIn](https://www.linkedin.com/in/sean-behan-/) or reach out at 
 
 ## 💡Completed Projects
 - **EuroTour**: Full-stack web application with ML-powered travel recommendations and tourism forecasting
+- **Power Line**: Java-based power line game using Kruskal's MST and BFS algorithms for power distribution
+- **Connections**: Java implementation of the NYT Connections puzzle with scalable randomization algorithms for word shuffling and positioning using Java inheritance 
+
 
 ## 💻 Technologies I Know
 
